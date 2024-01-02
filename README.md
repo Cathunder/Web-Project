@@ -1,7 +1,6 @@
-Commit 시
-아래 표시 + 내용 순으로 적어주세요
 
-최초 등록 : [init] <br>
-수정 : [update] <br>
-삭제 : [delete] <br>
-
+상품 문의글, 리뷰글 작성, 수정, 삭제
+Web-Project/src/main/java/com/fakenoonting/www/questions, reviews
+Web-Project/src/main/java/com/fakenoonting/www/util/paging
+Web-Project/src/main/resources/mappers/questionMapper.xml, reviewMapper.xml
+Web-Project/src/main/webapp/WEB-INF/views/question, review
