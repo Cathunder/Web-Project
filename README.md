@@ -7,7 +7,7 @@
 DBMS : MYSQL<br/><br/>
 
 
-상품 문의글, 리뷰글 작성, 수정, 삭제 기능 구현<br/>
+상품 문의글, 리뷰글 CRUD 구현<br/>
 Web-Project/src/main/java/com/fakenoonting/www/questions, reviews<br/><br/>
 
 
