@@ -1,7 +1,7 @@
 # 쇼핑몰 웹페이지
 
 개발환경 : macOS 12, 13<br/>
-사용기술 및 언어 : java, javascript, jsp, html, css<br/>
+사용기술 및 언어 : Java, Spring Framework, Javascript, Jsp, HTML, CSS<br/>
 개발도구 : Intellij IDEA<br/>
 형상관리툴 : Git, Sourcetree<br/>
 DBMS : MYSQL<br/><br/>
