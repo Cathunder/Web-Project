@@ -1,10 +1,11 @@
 # 쇼핑몰 웹페이지
 
 개발환경 : macOS 12, 13<br/>
-사용기술 및 언어 : JAVA, JAVASCRIPT, JSP, HTML, CSS<br/>
+사용기술 및 언어 : java, javascript, jsp, html, css<br/>
 개발도구 : Intellij IDEA<br/>
 형상관리툴 : Git, Sourcetree<br/>
 DBMS : MYSQL<br/><br/>
+
 
 상품 문의글, 리뷰글 작성, 수정, 삭제 기능 구현<br/>
 Web-Project/src/main/java/com/fakenoonting/www/questions, reviews<br/><br/>
